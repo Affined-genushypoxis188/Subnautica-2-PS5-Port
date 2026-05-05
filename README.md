@@ -8,8 +8,6 @@
 
 **Subnautica 2 PS5** is an optimized desktop version of the highly anticipated sequel to the beloved underwater survival game. Explore a new alien planet, build bases, craft equipment, survive dangerous creatures, and uncover the secrets of the ocean depths with improved performance and modern display support on Windows.
 
-<img width="2876" height="1614" alt="image" src="https://github.com/user-attachments/assets/c41cf5d1-4741-460b-85ee-a8394cb225e6" />
-
 ---
 ## 📦 What's Included
 - Subnautica 2 PS5 PC Version
